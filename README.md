@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @student-sejalsingh
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on gitup
-- 📫 How to reach me
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Hello world
+- <br\>
+- sejal singh
 
 <!---
 student-sejalsingh/student-sejalsingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 
-- <h1 align="center">Hey there 👋, I'm Sejal Singh</h1>
+- <h1 align="center">Hey there 👋, I'm Sejal </h1>
 <h3 align="center">💻 B.Tech CSE Student | Web Developer | Python & React Enthusiast 🚀</h3>
 
 <p align="center">
